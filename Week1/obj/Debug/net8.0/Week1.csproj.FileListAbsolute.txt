@@ -1,0 +1,14 @@
+C:\Users\furka\source\repos\YZM205\Week1\bin\Debug\net8.0\Week1.exe
+C:\Users\furka\source\repos\YZM205\Week1\bin\Debug\net8.0\Week1.deps.json
+C:\Users\furka\source\repos\YZM205\Week1\bin\Debug\net8.0\Week1.runtimeconfig.json
+C:\Users\furka\source\repos\YZM205\Week1\bin\Debug\net8.0\Week1.dll
+C:\Users\furka\source\repos\YZM205\Week1\bin\Debug\net8.0\Week1.pdb
+C:\Users\furka\source\repos\YZM205\Week1\obj\Debug\net8.0\Week1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\YZM205\Week1\obj\Debug\net8.0\Week1.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\YZM205\Week1\obj\Debug\net8.0\Week1.AssemblyInfo.cs
+C:\Users\furka\source\repos\YZM205\Week1\obj\Debug\net8.0\Week1.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\YZM205\Week1\obj\Debug\net8.0\Week1.dll
+C:\Users\furka\source\repos\YZM205\Week1\obj\Debug\net8.0\refint\Week1.dll
+C:\Users\furka\source\repos\YZM205\Week1\obj\Debug\net8.0\Week1.pdb
+C:\Users\furka\source\repos\YZM205\Week1\obj\Debug\net8.0\Week1.genruntimeconfig.cache
+C:\Users\furka\source\repos\YZM205\Week1\obj\Debug\net8.0\ref\Week1.dll
