@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\furka\\source\\repos\\YZM205\\Week1\\Week1.csproj": {}
+    "C:\\Users\\furka\\Source\\Repos\\YZM205\\Week1\\Week1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\furka\\source\\repos\\YZM205\\Week1\\Week1.csproj": {
+    "C:\\Users\\furka\\Source\\Repos\\YZM205\\Week1\\Week1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\furka\\source\\repos\\YZM205\\Week1\\Week1.csproj",
+        "projectUniqueName": "C:\\Users\\furka\\Source\\Repos\\YZM205\\Week1\\Week1.csproj",
         "projectName": "Week1",
-        "projectPath": "C:\\Users\\furka\\source\\repos\\YZM205\\Week1\\Week1.csproj",
+        "projectPath": "C:\\Users\\furka\\Source\\Repos\\YZM205\\Week1\\Week1.csproj",
         "packagesPath": "C:\\Users\\furka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\furka\\source\\repos\\YZM205\\Week1\\obj\\",
+        "outputPath": "C:\\Users\\furka\\Source\\Repos\\YZM205\\Week1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
