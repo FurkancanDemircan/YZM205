@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week1", "Week1\Week1.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week 2", "Week2\Week 2.csproj", "{333A5A6F-F1C8-D052-8FA9-D63CC030F741}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Teorik", "Teorik", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "..\Abstraction\Abstraction\Abstraction.csproj", "{F8E2226B-16E6-0036-ED8F-3FF2286E0E8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,9 +25,16 @@ Global
 		{333A5A6F-F1C8-D052-8FA9-D63CC030F741}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{333A5A6F-F1C8-D052-8FA9-D63CC030F741}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{333A5A6F-F1C8-D052-8FA9-D63CC030F741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8E2226B-16E6-0036-ED8F-3FF2286E0E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E2226B-16E6-0036-ED8F-3FF2286E0E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E2226B-16E6-0036-ED8F-3FF2286E0E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E2226B-16E6-0036-ED8F-3FF2286E0E8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F8E2226B-16E6-0036-ED8F-3FF2286E0E8C} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E3053AC6-24C4-46F5-BDBE-6CB82E75742E}
