@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\Abstraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BE7CED-0512-47BB-9E37-4ED3AB5F20FA}|Abstraction\\Abstraction.csproj|c:\\users\\furka\\source\\repos\\abstraction\\abstraction\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BE7CED-0512-47BB-9E37-4ED3AB5F20FA}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BE7CED-0512-47BB-9E37-4ED3AB5F20FA}|Abstraction\\Abstraction.csproj|c:\\users\\furka\\source\\repos\\abstraction\\abstraction\\acars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BE7CED-0512-47BB-9E37-4ED3AB5F20FA}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\acars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BE7CED-0512-47BB-9E37-4ED3AB5F20FA}|Abstraction\\Abstraction.csproj|c:\\users\\furka\\source\\repos\\abstraction\\abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BE7CED-0512-47BB-9E37-4ED3AB5F20FA}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ACars.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\Abstraction\\Abstraction\\ACars.cs",
+              "RelativeDocumentMoniker": "Abstraction\\ACars.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\Abstraction\\Abstraction\\ACars.cs",
+              "RelativeToolTip": "Abstraction\\ACars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:45:00.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cars.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\Abstraction\\Abstraction\\Cars.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Cars.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\Abstraction\\Abstraction\\Cars.cs",
+              "RelativeToolTip": "Abstraction\\Cars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:35:35.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\Abstraction\\Abstraction\\Program.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Program.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\Abstraction\\Abstraction\\Program.cs",
+              "RelativeToolTip": "Abstraction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:35:05.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
