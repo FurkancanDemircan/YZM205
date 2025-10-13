@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE37CD3-FE60-4136-93B1-5E3865B2BABB}|Inheritance\\Inheritance.csproj|c:\\users\\furka\\source\\repos\\inheritance\\inheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE37CD3-FE60-4136-93B1-5E3865B2BABB}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE37CD3-FE60-4136-93B1-5E3865B2BABB}|Inheritance\\Inheritance.csproj|c:\\users\\furka\\source\\repos\\inheritance\\inheritance\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE37CD3-FE60-4136-93B1-5E3865B2BABB}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE37CD3-FE60-4136-93B1-5E3865B2BABB}|Inheritance\\Inheritance.csproj|c:\\users\\furka\\source\\repos\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE37CD3-FE60-4136-93B1-5E3865B2BABB}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE37CD3-FE60-4136-93B1-5E3865B2BABB}|Inheritance\\Inheritance.csproj|c:\\users\\furka\\source\\repos\\inheritance\\inheritance\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE37CD3-FE60-4136-93B1-5E3865B2BABB}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\Inheritance\\Inheritance\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\Inheritance\\Inheritance\\Vehicle.cs",
+              "RelativeToolTip": "Inheritance\\Vehicle.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:53:07.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\Inheritance\\Inheritance\\Bike.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Bike.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\Inheritance\\Inheritance\\Bike.cs",
+              "RelativeToolTip": "Inheritance\\Bike.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T11:02:51.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\Inheritance\\Inheritance\\Car.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Car.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\Inheritance\\Inheritance\\Car.cs",
+              "RelativeToolTip": "Inheritance\\Car.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:58:26.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwCgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T07:13:26.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
