@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\YZM205\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{333A5A6F-F1C8-D052-8FA9-D63CC030F741}|Week2\\Week 2.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week2\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{333A5A6F-F1C8-D052-8FA9-D63CC030F741}|Week2\\Week 2.csproj|solutionrelative:week2\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE82B24F-8145-4FC6-B057-1D799800D9A2}|Week3\\Week3.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE82B24F-8145-4FC6-B057-1D799800D9A2}|Week3\\Week3.csproj|solutionrelative:week3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{333A5A6F-F1C8-D052-8FA9-D63CC030F741}|Week2\\Week 2.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{333A5A6F-F1C8-D052-8FA9-D63CC030F741}|Week2\\Week 2.csproj|solutionrelative:week2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE82B24F-8145-4FC6-B057-1D799800D9A2}|Week3\\Week3.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week3\\bankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE82B24F-8145-4FC6-B057-1D799800D9A2}|Week3\\Week3.csproj|solutionrelative:week3\\bankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{333A5A6F-F1C8-D052-8FA9-D63CC030F741}|Week2\\Week 2.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{333A5A6F-F1C8-D052-8FA9-D63CC030F741}|Week2\\Week 2.csproj|solutionrelative:week2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00558EF7-D2AC-49CA-82F1-F94673F62766}|Week1\\Week1.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00558EF7-D2AC-49CA-82F1-F94673F62766}|Week1\\Week1.csproj|solutionrelative:week1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE82B24F-8145-4FC6-B057-1D799800D9A2}|Week3\\Week3.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week3\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE82B24F-8145-4FC6-B057-1D799800D9A2}|Week3\\Week3.csproj|solutionrelative:week3\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Company.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week2\\Company.cs",
-              "RelativeDocumentMoniker": "Week2\\Company.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week2\\Company.cs",
-              "RelativeToolTip": "Week2\\Company.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T13:20:08.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week2\\Employee.cs",
-              "RelativeDocumentMoniker": "Week2\\Employee.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week2\\Employee.cs",
-              "RelativeToolTip": "Week2\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "BankRepository.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week3\\BankRepository.cs",
+              "RelativeDocumentMoniker": "Week3\\BankRepository.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week3\\BankRepository.cs",
+              "RelativeToolTip": "Week3\\BankRepository.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T13:20:00.056Z",
+              "WhenOpened": "2025-10-10T13:06:06.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week2\\Program.cs",
-              "RelativeDocumentMoniker": "Week2\\Program.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week2\\Program.cs",
-              "RelativeToolTip": "Week2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week3\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Week3\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week3\\BankAccount.cs",
+              "RelativeToolTip": "Week3\\BankAccount.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T13:19:56.064Z",
+              "WhenOpened": "2025-10-10T13:05:32.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week1\\Program.cs",
-              "RelativeDocumentMoniker": "Week1\\Program.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week1\\Program.cs",
-              "RelativeToolTip": "Week1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week3\\Program.cs",
+              "RelativeDocumentMoniker": "Week3\\Program.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week3\\Program.cs",
+              "RelativeToolTip": "Week3\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T12:34:47.166Z",
+              "WhenOpened": "2025-10-10T13:01:51.827Z",
               "EditorCaption": ""
             }
           ]

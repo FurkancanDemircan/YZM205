@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\furka\\source\\repos\\Abstraction\\Abstraction\\Abstraction.csproj",
+      "projectUniqueName": "C:\\Users\\furka\\source\\repos\\YZM205\\Abstraction\\Abstraction\\Abstraction.csproj",
       "projectName": "Abstraction",
-      "projectPath": "C:\\Users\\furka\\source\\repos\\Abstraction\\Abstraction\\Abstraction.csproj",
+      "projectPath": "C:\\Users\\furka\\source\\repos\\YZM205\\Abstraction\\Abstraction\\Abstraction.csproj",
       "packagesPath": "C:\\Users\\furka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\furka\\source\\repos\\Abstraction\\Abstraction\\obj\\",
+      "outputPath": "C:\\Users\\furka\\source\\repos\\YZM205\\Abstraction\\Abstraction\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
