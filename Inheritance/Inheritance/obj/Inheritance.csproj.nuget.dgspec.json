@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\furka\\source\\repos\\Inheritance\\Inheritance\\Inheritance.csproj": {}
+    "C:\\Users\\furka\\source\\repos\\YZM205\\Inheritance\\Inheritance\\Inheritance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\furka\\source\\repos\\Inheritance\\Inheritance\\Inheritance.csproj": {
+    "C:\\Users\\furka\\source\\repos\\YZM205\\Inheritance\\Inheritance\\Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\furka\\source\\repos\\Inheritance\\Inheritance\\Inheritance.csproj",
+        "projectUniqueName": "C:\\Users\\furka\\source\\repos\\YZM205\\Inheritance\\Inheritance\\Inheritance.csproj",
         "projectName": "Inheritance",
-        "projectPath": "C:\\Users\\furka\\source\\repos\\Inheritance\\Inheritance\\Inheritance.csproj",
+        "projectPath": "C:\\Users\\furka\\source\\repos\\YZM205\\Inheritance\\Inheritance\\Inheritance.csproj",
         "packagesPath": "C:\\Users\\furka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\furka\\source\\repos\\Inheritance\\Inheritance\\obj\\",
+        "outputPath": "C:\\Users\\furka\\source\\repos\\YZM205\\Inheritance\\Inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
