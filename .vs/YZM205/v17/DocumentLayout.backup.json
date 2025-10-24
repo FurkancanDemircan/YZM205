@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\YZM205\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB45C69B-2843-47AE-A34A-7266E8ACC577}|Week4\\Week4.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week4\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB45C69B-2843-47AE-A34A-7266E8ACC577}|Week4\\Week4.csproj|solutionrelative:week4\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|solutionrelative:week5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB45C69B-2843-47AE-A34A-7266E8ACC577}|Week4\\Week4.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week4\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB45C69B-2843-47AE-A34A-7266E8ACC577}|Week4\\Week4.csproj|solutionrelative:week4\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week5\\mediarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|solutionrelative:week5\\mediarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB45C69B-2843-47AE-A34A-7266E8ACC577}|Week4\\Week4.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week4\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB45C69B-2843-47AE-A34A-7266E8ACC577}|Week4\\Week4.csproj|solutionrelative:week4\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week5\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|solutionrelative:week5\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB45C69B-2843-47AE-A34A-7266E8ACC577}|Week4\\Week4.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB45C69B-2843-47AE-A34A-7266E8ACC577}|Week4\\Week4.csproj|solutionrelative:week4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week5\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|solutionrelative:week5\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week5\\host.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|solutionrelative:week5\\host.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week5\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|solutionrelative:week5\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week5\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|solutionrelative:week5\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week5\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|solutionrelative:week5\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +50,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Character.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week4\\Character.cs",
-              "RelativeDocumentMoniker": "Week4\\Character.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week4\\Character.cs",
-              "RelativeToolTip": "Week4\\Character.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBMAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T11:40:46.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Mage.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week4\\Mage.cs",
-              "RelativeDocumentMoniker": "Week4\\Mage.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week4\\Mage.cs",
-              "RelativeToolTip": "Week4\\Mage.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowA4AAABhAAAAAAAAAA==",
+              "Title": "MediaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\MediaRepository.cs",
+              "RelativeDocumentMoniker": "Week5\\MediaRepository.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\MediaRepository.cs",
+              "RelativeToolTip": "Week5\\MediaRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA8wB8AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T11:55:59Z",
+              "WhenOpened": "2025-10-24T13:10:37.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Warrior.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week4\\Warrior.cs",
-              "RelativeDocumentMoniker": "Week4\\Warrior.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week4\\Warrior.cs",
-              "RelativeToolTip": "Week4\\Warrior.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwA4AAAAgAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Artist.cs",
+              "RelativeDocumentMoniker": "Week5\\Artist.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Artist.cs",
+              "RelativeToolTip": "Week5\\Artist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T11:40:40.849Z",
+              "WhenOpened": "2025-10-24T13:02:19.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Host.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Host.cs",
+              "RelativeDocumentMoniker": "Week5\\Host.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Host.cs",
+              "RelativeToolTip": "Week5\\Host.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T13:05:46.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Podcast.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Podcast.cs",
+              "RelativeDocumentMoniker": "Week5\\Podcast.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Podcast.cs",
+              "RelativeToolTip": "Week5\\Podcast.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T13:04:16.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week4\\Program.cs",
-              "RelativeDocumentMoniker": "Week4\\Program.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week4\\Program.cs",
-              "RelativeToolTip": "Week4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Song.cs",
+              "RelativeDocumentMoniker": "Week5\\Song.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Song.cs",
+              "RelativeToolTip": "Week5\\Song.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vwoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T11:15:06.125Z",
+              "WhenOpened": "2025-10-24T13:01:02.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Person.cs",
+              "RelativeDocumentMoniker": "Week5\\Person.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Person.cs",
+              "RelativeToolTip": "Week5\\Person.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAywBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:58:50.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Media.cs",
+              "RelativeDocumentMoniker": "Week5\\Media.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Media.cs",
+              "RelativeToolTip": "Week5\\Media.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:54:24.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Program.cs",
+              "RelativeDocumentMoniker": "Week5\\Program.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Program.cs",
+              "RelativeToolTip": "Week5\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:05:52.118Z",
               "EditorCaption": ""
             }
           ]
