@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\YZM205\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week5\\mediarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|solutionrelative:week5\\mediarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0271261-5EC0-4046-9505-5B77CD72E18C}|ProductLibrary\\ShoppingLibrary.csproj|c:\\users\\furka\\source\\repos\\yzm205\\productlibrary\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0271261-5EC0-4046-9505-5B77CD72E18C}|ProductLibrary\\ShoppingLibrary.csproj|solutionrelative:productlibrary\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|solutionrelative:week5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC0EDF5C-808A-4D54-A415-2184B6630171}|ShoppingConsole\\ShoppingConsole.csproj|c:\\users\\furka\\source\\repos\\yzm205\\shoppingconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0EDF5C-808A-4D54-A415-2184B6630171}|ShoppingConsole\\ShoppingConsole.csproj|solutionrelative:shoppingconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week5\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|solutionrelative:week5\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0271261-5EC0-4046-9505-5B77CD72E18C}|ProductLibrary\\ShoppingLibrary.csproj|c:\\users\\furka\\source\\repos\\yzm205\\productlibrary\\cardline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0271261-5EC0-4046-9505-5B77CD72E18C}|ProductLibrary\\ShoppingLibrary.csproj|solutionrelative:productlibrary\\cardline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week5\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|solutionrelative:week5\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0271261-5EC0-4046-9505-5B77CD72E18C}|ProductLibrary\\ShoppingLibrary.csproj|c:\\users\\furka\\source\\repos\\yzm205\\productlibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0271261-5EC0-4046-9505-5B77CD72E18C}|ProductLibrary\\ShoppingLibrary.csproj|solutionrelative:productlibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week5\\host.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|solutionrelative:week5\\host.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week5\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|solutionrelative:week5\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week5\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|solutionrelative:week5\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week5\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDCAE877-505B-4381-9335-82F34AA84F2F}|Week5\\Week5.csproj|solutionrelative:week5\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0271261-5EC0-4046-9505-5B77CD72E18C}|ProductLibrary\\ShoppingLibrary.csproj|c:\\users\\furka\\source\\repos\\yzm205\\productlibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0271261-5EC0-4046-9505-5B77CD72E18C}|ProductLibrary\\ShoppingLibrary.csproj|solutionrelative:productlibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,106 +38,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\ShoppingConsole\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\ShoppingConsole\\Program.cs",
+              "RelativeToolTip": "ShoppingConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T11:27:32.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MediaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\MediaRepository.cs",
-              "RelativeDocumentMoniker": "Week5\\MediaRepository.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\MediaRepository.cs",
-              "RelativeToolTip": "Week5\\MediaRepository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA8wCIAAAABAAAAAAAAAA==",
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\ProductLibrary\\Card.cs",
+              "RelativeDocumentMoniker": "ProductLibrary\\Card.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\ProductLibrary\\Card.cs",
+              "RelativeToolTip": "ProductLibrary\\Card.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wCIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T13:10:37.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Artist.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Artist.cs",
-              "RelativeDocumentMoniker": "Week5\\Artist.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Artist.cs",
-              "RelativeToolTip": "Week5\\Artist.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T13:02:19.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Host.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Host.cs",
-              "RelativeDocumentMoniker": "Week5\\Host.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Host.cs",
-              "RelativeToolTip": "Week5\\Host.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T13:05:46.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Podcast.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Podcast.cs",
-              "RelativeDocumentMoniker": "Week5\\Podcast.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Podcast.cs",
-              "RelativeToolTip": "Week5\\Podcast.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBMAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T13:04:16.434Z",
+              "WhenOpened": "2025-11-03T11:18:05.51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Song.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Song.cs",
-              "RelativeDocumentMoniker": "Week5\\Song.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Song.cs",
-              "RelativeToolTip": "Week5\\Song.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAD4vwoAAAAlAAAAAAAAAA==",
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\ProductLibrary\\IRepository.cs",
+              "RelativeDocumentMoniker": "ProductLibrary\\IRepository.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\ProductLibrary\\IRepository.cs",
+              "RelativeToolTip": "ProductLibrary\\IRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T13:01:02.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Person.cs",
-              "RelativeDocumentMoniker": "Week5\\Person.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Person.cs",
-              "RelativeToolTip": "Week5\\Person.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAIAywBMAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T12:58:50.328Z",
+              "WhenOpened": "2025-11-03T11:14:38.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Media.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Media.cs",
-              "RelativeDocumentMoniker": "Week5\\Media.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Media.cs",
-              "RelativeToolTip": "Week5\\Media.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAIwCEAAAA2AAAAAAAAAA==",
+              "Title": "CardLine.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\ProductLibrary\\CardLine.cs",
+              "RelativeDocumentMoniker": "ProductLibrary\\CardLine.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\ProductLibrary\\CardLine.cs",
+              "RelativeToolTip": "ProductLibrary\\CardLine.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAhwBQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T12:54:24.296Z",
+              "WhenOpened": "2025-11-03T11:05:13.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Program.cs",
-              "RelativeDocumentMoniker": "Week5\\Program.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week5\\Program.cs",
-              "RelativeToolTip": "Week5\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\ProductLibrary\\Product.cs",
+              "RelativeDocumentMoniker": "ProductLibrary\\Product.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\ProductLibrary\\Product.cs",
+              "RelativeToolTip": "ProductLibrary\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T11:05:52.118Z",
+              "WhenOpened": "2025-11-03T10:21:56.546Z",
               "EditorCaption": ""
             }
           ]

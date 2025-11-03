@@ -1,0 +1,12 @@
+C:\Users\furka\source\repos\YZM205\ProductLibrary\bin\Debug\net8.0\ShoppingLibrary.deps.json
+C:\Users\furka\source\repos\YZM205\ProductLibrary\bin\Debug\net8.0\ShoppingLibrary.dll
+C:\Users\furka\source\repos\YZM205\ProductLibrary\bin\Debug\net8.0\ShoppingLibrary.pdb
+C:\Users\furka\source\repos\YZM205\ProductLibrary\obj\Debug\net8.0\ShoppingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\YZM205\ProductLibrary\obj\Debug\net8.0\ShoppingLibrary.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\YZM205\ProductLibrary\obj\Debug\net8.0\ShoppingLibrary.AssemblyInfo.cs
+C:\Users\furka\source\repos\YZM205\ProductLibrary\obj\Debug\net8.0\ShoppingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\YZM205\ProductLibrary\obj\Debug\net8.0\ShoppingLibrary.sourcelink.json
+C:\Users\furka\source\repos\YZM205\ProductLibrary\obj\Debug\net8.0\ShoppingLibrary.dll
+C:\Users\furka\source\repos\YZM205\ProductLibrary\obj\Debug\net8.0\refint\ShoppingLibrary.dll
+C:\Users\furka\source\repos\YZM205\ProductLibrary\obj\Debug\net8.0\ShoppingLibrary.pdb
+C:\Users\furka\source\repos\YZM205\ProductLibrary\obj\Debug\net8.0\ref\ShoppingLibrary.dll
