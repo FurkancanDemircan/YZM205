@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShoppingConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10d756a2e16557c7b9cfd6386c6fa001ec890e41")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c1f0cda34fe8c1c9b898f3450865b66d658ad90")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShoppingConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShoppingConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

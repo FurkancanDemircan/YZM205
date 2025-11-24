@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\YZM205\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC0EDF5C-808A-4D54-A415-2184B6630171}|ShoppingConsole\\ShoppingConsole.csproj|c:\\users\\furka\\source\\repos\\yzm205\\shoppingconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0EDF5C-808A-4D54-A415-2184B6630171}|ShoppingConsole\\ShoppingConsole.csproj|solutionrelative:shoppingconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0271261-5EC0-4046-9505-5B77CD72E18C}|ProductLibrary\\ShoppingLibrary.csproj|c:\\users\\furka\\source\\repos\\yzm205\\productlibrary\\cardline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0271261-5EC0-4046-9505-5B77CD72E18C}|ProductLibrary\\ShoppingLibrary.csproj|solutionrelative:productlibrary\\cardline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0271261-5EC0-4046-9505-5B77CD72E18C}|ProductLibrary\\ShoppingLibrary.csproj|c:\\users\\furka\\source\\repos\\yzm205\\productlibrary\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0271261-5EC0-4046-9505-5B77CD72E18C}|ProductLibrary\\ShoppingLibrary.csproj|solutionrelative:productlibrary\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0271261-5EC0-4046-9505-5B77CD72E18C}|ProductLibrary\\ShoppingLibrary.csproj|c:\\users\\furka\\source\\repos\\yzm205\\productlibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0271261-5EC0-4046-9505-5B77CD72E18C}|ProductLibrary\\ShoppingLibrary.csproj|solutionrelative:productlibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0271261-5EC0-4046-9505-5B77CD72E18C}|ProductLibrary\\ShoppingLibrary.csproj|c:\\users\\furka\\source\\repos\\yzm205\\productlibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0271261-5EC0-4046-9505-5B77CD72E18C}|ProductLibrary\\ShoppingLibrary.csproj|solutionrelative:productlibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBB51C31-A1CD-4858-82C6-D8B37E2DEEFC}|Week8\\Week8.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB51C31-A1CD-4858-82C6-D8B37E2DEEFC}|Week8\\Week8.csproj|solutionrelative:week8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,65 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\ShoppingConsole\\Program.cs",
-              "RelativeDocumentMoniker": "ShoppingConsole\\Program.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\ShoppingConsole\\Program.cs",
-              "RelativeToolTip": "ShoppingConsole\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week8\\Program.cs",
+              "RelativeDocumentMoniker": "Week8\\Program.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week8\\Program.cs",
+              "RelativeToolTip": "Week8\\Program.cs",
+              "ViewState": "AgIAAAkAAACAMDMzMzMawBcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T11:27:32.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Card.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\ProductLibrary\\Card.cs",
-              "RelativeDocumentMoniker": "ProductLibrary\\Card.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\ProductLibrary\\Card.cs",
-              "RelativeToolTip": "ProductLibrary\\Card.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T11:18:05.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\ProductLibrary\\IRepository.cs",
-              "RelativeDocumentMoniker": "ProductLibrary\\IRepository.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\ProductLibrary\\IRepository.cs",
-              "RelativeToolTip": "ProductLibrary\\IRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T11:14:38.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CardLine.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\ProductLibrary\\CardLine.cs",
-              "RelativeDocumentMoniker": "ProductLibrary\\CardLine.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\ProductLibrary\\CardLine.cs",
-              "RelativeToolTip": "ProductLibrary\\CardLine.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAhwCYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T11:05:13.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\ProductLibrary\\Product.cs",
-              "RelativeDocumentMoniker": "ProductLibrary\\Product.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\ProductLibrary\\Product.cs",
-              "RelativeToolTip": "ProductLibrary\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T10:21:56.546Z",
+              "WhenOpened": "2025-11-24T07:15:58.289Z",
               "EditorCaption": ""
             }
           ]
