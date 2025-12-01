@@ -4764,11 +4764,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj",
+      "projectUniqueName": "C:\\Users\\furka\\source\\repos\\YZM205\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj",
       "projectName": "LibraryAPI",
-      "projectPath": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj",
+      "projectPath": "C:\\Users\\furka\\source\\repos\\YZM205\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj",
       "packagesPath": "C:\\Users\\furka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\obj\\",
+      "outputPath": "C:\\Users\\furka\\source\\repos\\YZM205\\LibraryAPI\\LibraryAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2N4EGchVKiQ=",
+  "dgSpecHash": "bYn9BEmG5rM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj",
+  "projectFilePath": "C:\\Users\\furka\\source\\repos\\YZM205\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\furka\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
