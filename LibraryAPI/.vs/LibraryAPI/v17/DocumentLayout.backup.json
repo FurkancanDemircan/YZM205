@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\Migrations\\20251201120840_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryAPI\\Migrations\\20251201120840_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2941678A-E7BC-4DC4-BDE0-1B1BF50D4D47}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\furka\\source\\repos\\libraryapi\\libraryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2941678A-E7BC-4DC4-BDE0-1B1BF50D4D47}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2941678A-E7BC-4DC4-BDE0-1B1BF50D4D47}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\furka\\source\\repos\\libraryapi\\libraryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2941678A-E7BC-4DC4-BDE0-1B1BF50D4D47}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2941678A-E7BC-4DC4-BDE0-1B1BF50D4D47}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\furka\\source\\repos\\libraryapi\\libraryapi\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2941678A-E7BC-4DC4-BDE0-1B1BF50D4D47}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2941678A-E7BC-4DC4-BDE0-1B1BF50D4D47}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\furka\\source\\repos\\libraryapi\\libraryapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2941678A-E7BC-4DC4-BDE0-1B1BF50D4D47}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2941678A-E7BC-4DC4-BDE0-1B1BF50D4D47}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\furka\\source\\repos\\libraryapi\\libraryapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2941678A-E7BC-4DC4-BDE0-1B1BF50D4D47}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2941678A-E7BC-4DC4-BDE0-1B1BF50D4D47}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\furka\\source\\repos\\libraryapi\\libraryapi\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2941678A-E7BC-4DC4-BDE0-1B1BF50D4D47}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2941678A-E7BC-4DC4-BDE0-1B1BF50D4D47}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\furka\\source\\repos\\libraryapi\\libraryapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2941678A-E7BC-4DC4-BDE0-1B1BF50D4D47}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2941678A-E7BC-4DC4-BDE0-1B1BF50D4D47}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\furka\\source\\repos\\libraryapi\\libraryapi\\datas\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2941678A-E7BC-4DC4-BDE0-1B1BF50D4D47}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\datas\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2941678A-E7BC-4DC4-BDE0-1B1BF50D4D47}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\furka\\source\\repos\\libraryapi\\libraryapi\\controllers\\bookcontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2941678A-E7BC-4DC4-BDE0-1B1BF50D4D47}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\controllers\\bookcontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251201120840_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\Migrations\\20251201120840_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Migrations\\20251201120840_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\Migrations\\20251201120840_InitialCreate.cs",
+              "RelativeToolTip": "LibraryAPI\\Migrations\\20251201120840_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:08:40.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\User.cs",
+              "RelativeToolTip": "LibraryAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADsvwgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:48:42.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BorrowRecord.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\BorrowRecord.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Models\\BorrowRecord.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\BorrowRecord.cs",
+              "RelativeToolTip": "LibraryAPI\\Models\\BorrowRecord.cs",
+              "ViewState": "AgIAAAwAAABAMzMzMxM8wBAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:46:16.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\appsettings.json",
+              "RelativeToolTip": "LibraryAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-01T08:18:06.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\Datas\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Datas\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\Datas\\AppDbContext.cs",
+              "RelativeToolTip": "LibraryAPI\\Datas\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:05:52.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\Program.cs",
+              "RelativeToolTip": "LibraryAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:02:43.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T20:12:26.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BorrowController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\BorrowController.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\BorrowController.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\BorrowController.cs",
+              "RelativeToolTip": "LibraryAPI\\Controllers\\BorrowController.cs",
+              "ViewState": "AgIAAAwAAADA//////8owBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T20:09:27.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookControllercs.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\BookControllercs.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\BookControllercs.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\BookControllercs.cs",
+              "RelativeToolTip": "LibraryAPI\\Controllers\\BookControllercs.cs",
+              "ViewState": "AgIAACAAAABAmJmZmRkkwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T20:08:12.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LibraryAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABwAAAAANzMzMzMDwCEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T19:47:41.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
