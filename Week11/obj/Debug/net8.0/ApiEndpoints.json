@@ -1,0 +1,181 @@
+[
+  {
+    "ContainingType": "Week11.Controllers.ParksController",
+    "Method": "GetAll",
+    "RelativePath": "api/Parks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Week11.Controllers.ParksController",
+    "Method": "GetById",
+    "RelativePath": "api/Parks/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Week11.Controllers.ParksController",
+    "Method": "Delete",
+    "RelativePath": "api/Parks/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Week11.Controllers.ParksController",
+    "Method": "UpdateCityPark",
+    "RelativePath": "api/Parks/{id}/city",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "park",
+        "Type": "Week11.Models.CityPark",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Week11.Controllers.ParksController",
+    "Method": "CalculateFee",
+    "RelativePath": "api/Parks/{id}/fee/{visitors}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "visitors",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Week11.Controllers.ParksController",
+    "Method": "UpdateNationalPark",
+    "RelativePath": "api/Parks/{id}/national",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "park",
+        "Type": "Week11.Models.NationalPark",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Week11.Controllers.ParksController",
+    "Method": "AddVisitors",
+    "RelativePath": "api/Parks/{id}/visitors/add/{count}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "count",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Week11.Controllers.ParksController",
+    "Method": "RemoveVisitors",
+    "RelativePath": "api/Parks/{id}/visitors/remove/{count}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "count",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Week11.Controllers.ParksController",
+    "Method": "CreateCityPark",
+    "RelativePath": "api/Parks/city",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "park",
+        "Type": "Week11.Models.CityPark",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Week11.Controllers.ParksController",
+    "Method": "CreateNationalPark",
+    "RelativePath": "api/Parks/national",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "park",
+        "Type": "Week11.Models.NationalPark",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

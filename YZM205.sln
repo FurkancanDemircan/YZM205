@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week10", "Week10\Week10.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryAPI", "LibraryAPI\LibraryAPI\LibraryAPI.csproj", "{6FA449C9-99DF-69D3-3ACD-78D20F998031}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week11", "Week11\Week11.csproj", "{A5637F54-DC7A-4535-8600-62872EF0D39F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{6FA449C9-99DF-69D3-3ACD-78D20F998031}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FA449C9-99DF-69D3-3ACD-78D20F998031}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FA449C9-99DF-69D3-3ACD-78D20F998031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5637F54-DC7A-4535-8600-62872EF0D39F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5637F54-DC7A-4535-8600-62872EF0D39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5637F54-DC7A-4535-8600-62872EF0D39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5637F54-DC7A-4535-8600-62872EF0D39F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

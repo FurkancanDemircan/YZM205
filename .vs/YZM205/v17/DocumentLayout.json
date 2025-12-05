@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\YZM205\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0896466-E63F-4761-B85B-6FEFA3F9D712}|Week10\\Week10.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0896466-E63F-4761-B85B-6FEFA3F9D712}|Week10\\Week10.csproj|solutionrelative:week10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week11\\controllers\\parkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|solutionrelative:week11\\controllers\\parkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0896466-E63F-4761-B85B-6FEFA3F9D712}|Week10\\Week10.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week10\\learningplatformmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0896466-E63F-4761-B85B-6FEFA3F9D712}|Week10\\Week10.csproj|solutionrelative:week10\\learningplatformmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week11\\interfaces\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|solutionrelative:week11\\interfaces\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0896466-E63F-4761-B85B-6FEFA3F9D712}|Week10\\Week10.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week10\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0896466-E63F-4761-B85B-6FEFA3F9D712}|Week10\\Week10.csproj|solutionrelative:week10\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week11\\interfaces\\iparkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|solutionrelative:week11\\interfaces\\iparkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0896466-E63F-4761-B85B-6FEFA3F9D712}|Week10\\Week10.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week10\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0896466-E63F-4761-B85B-6FEFA3F9D712}|Week10\\Week10.csproj|solutionrelative:week10\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week11\\models\\citypark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|solutionrelative:week11\\models\\citypark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0896466-E63F-4761-B85B-6FEFA3F9D712}|Week10\\Week10.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week10\\videolesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0896466-E63F-4761-B85B-6FEFA3F9D712}|Week10\\Week10.csproj|solutionrelative:week10\\videolesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week11\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|solutionrelative:week11\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0896466-E63F-4761-B85B-6FEFA3F9D712}|Week10\\Week10.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week10\\learningitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0896466-E63F-4761-B85B-6FEFA3F9D712}|Week10\\Week10.csproj|solutionrelative:week10\\learningitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week11\\data\\parkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|solutionrelative:week11\\data\\parkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|solutionrelative:week11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week11\\models\\nationalpark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|solutionrelative:week11\\models\\nationalpark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week11\\models\\park.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|solutionrelative:week11\\models\\park.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,74 +55,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LearningPlatformManager.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week10\\LearningPlatformManager.cs",
-              "RelativeDocumentMoniker": "Week10\\LearningPlatformManager.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week10\\LearningPlatformManager.cs",
-              "RelativeToolTip": "Week10\\LearningPlatformManager.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwA0AAAA6AAAAAAAAAA==",
+              "Title": "IController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Interfaces\\IController.cs",
+              "RelativeDocumentMoniker": "Week11\\Interfaces\\IController.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Interfaces\\IController.cs",
+              "RelativeToolTip": "Week11\\Interfaces\\IController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:42:39.23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week10\\Course.cs",
-              "RelativeDocumentMoniker": "Week10\\Course.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week10\\Course.cs",
-              "RelativeToolTip": "Week10\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:33:00.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Quiz.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week10\\Quiz.cs",
-              "RelativeDocumentMoniker": "Week10\\Quiz.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week10\\Quiz.cs",
-              "RelativeToolTip": "Week10\\Quiz.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:31:32.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VideoLesson.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week10\\VideoLesson.cs",
-              "RelativeDocumentMoniker": "Week10\\VideoLesson.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week10\\VideoLesson.cs",
-              "RelativeToolTip": "Week10\\VideoLesson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:26:40.48Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LearningItem.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week10\\LearningItem.cs",
-              "RelativeDocumentMoniker": "Week10\\LearningItem.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week10\\LearningItem.cs",
-              "RelativeToolTip": "Week10\\LearningItem.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:23:28.371Z"
+              "WhenOpened": "2025-12-05T12:03:51.988Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week10\\Program.cs",
-              "RelativeDocumentMoniker": "Week10\\Program.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week10\\Program.cs",
-              "RelativeToolTip": "Week10\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "ParkController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Controllers\\ParkController.cs",
+              "RelativeDocumentMoniker": "Week11\\Controllers\\ParkController.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Controllers\\ParkController.cs",
+              "RelativeToolTip": "Week11\\Controllers\\ParkController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwAgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T10:57:05.786Z",
+              "WhenOpened": "2025-12-05T12:03:29.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Data\\ParkRepository.cs",
+              "RelativeDocumentMoniker": "Week11\\Data\\ParkRepository.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Data\\ParkRepository.cs",
+              "RelativeToolTip": "Week11\\Data\\ParkRepository.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwEsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T12:02:20.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Program.cs",
+              "RelativeDocumentMoniker": "Week11\\Program.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Program.cs",
+              "RelativeToolTip": "Week11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T11:59:54.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NationalPark.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Models\\NationalPark.cs",
+              "RelativeDocumentMoniker": "Week11\\Models\\NationalPark.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Models\\NationalPark.cs",
+              "RelativeToolTip": "Week11\\Models\\NationalPark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T11:59:14.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IParkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Interfaces\\IParkRepository.cs",
+              "RelativeDocumentMoniker": "Week11\\Interfaces\\IParkRepository.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Interfaces\\IParkRepository.cs",
+              "RelativeToolTip": "Week11\\Interfaces\\IParkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T11:41:03.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Week11\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Week11\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T11:33:09.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CityPark.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Models\\CityPark.cs",
+              "RelativeDocumentMoniker": "Week11\\Models\\CityPark.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Models\\CityPark.cs",
+              "RelativeToolTip": "Week11\\Models\\CityPark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T11:31:31.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Park.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Models\\Park.cs",
+              "RelativeDocumentMoniker": "Week11\\Models\\Park.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Models\\Park.cs",
+              "RelativeToolTip": "Week11\\Models\\Park.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA9wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T11:19:48.102Z",
               "EditorCaption": ""
             }
           ]
