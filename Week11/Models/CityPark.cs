@@ -12,7 +12,6 @@
 
         public override decimal CalculateEntryFee(int visitors)
         {
-            // City parks are free entry
             return 0m;
         }
     }

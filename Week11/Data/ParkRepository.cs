@@ -8,6 +8,7 @@ namespace Week11.Data
     {
         private readonly AppDbContext _context;
 
+        // Dependecy Injection
         public ParkRepository(AppDbContext context)
         {
             _context = context;

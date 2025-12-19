@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\SchoolAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66BDED04-0DEC-440D-92BE-81C351C77290}|SchoolAPI\\SchoolAPI.csproj|c:\\users\\furka\\source\\repos\\schoolapi\\schoolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BDED04-0DEC-440D-92BE-81C351C77290}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BDED04-0DEC-440D-92BE-81C351C77290}|SchoolAPI\\SchoolAPI.csproj|c:\\users\\furka\\source\\repos\\schoolapi\\schoolapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BDED04-0DEC-440D-92BE-81C351C77290}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BDED04-0DEC-440D-92BE-81C351C77290}|SchoolAPI\\SchoolAPI.csproj|c:\\users\\furka\\source\\repos\\schoolapi\\schoolapi\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BDED04-0DEC-440D-92BE-81C351C77290}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BDED04-0DEC-440D-92BE-81C351C77290}|SchoolAPI\\SchoolAPI.csproj|c:\\users\\furka\\source\\repos\\schoolapi\\schoolapi\\data\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BDED04-0DEC-440D-92BE-81C351C77290}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\data\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BDED04-0DEC-440D-92BE-81C351C77290}|SchoolAPI\\SchoolAPI.csproj|c:\\users\\furka\\source\\repos\\schoolapi\\schoolapi\\models\\studentlesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BDED04-0DEC-440D-92BE-81C351C77290}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\models\\studentlesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BDED04-0DEC-440D-92BE-81C351C77290}|SchoolAPI\\SchoolAPI.csproj|c:\\users\\furka\\source\\repos\\schoolapi\\schoolapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66BDED04-0DEC-440D-92BE-81C351C77290}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BDED04-0DEC-440D-92BE-81C351C77290}|SchoolAPI\\SchoolAPI.csproj|c:\\users\\furka\\source\\repos\\schoolapi\\schoolapi\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BDED04-0DEC-440D-92BE-81C351C77290}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BDED04-0DEC-440D-92BE-81C351C77290}|SchoolAPI\\SchoolAPI.csproj|c:\\users\\furka\\source\\repos\\schoolapi\\schoolapi\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BDED04-0DEC-440D-92BE-81C351C77290}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\SchoolAPI\\SchoolAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\SchoolAPI\\SchoolAPI\\Program.cs",
+              "RelativeToolTip": "SchoolAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T08:02:49.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\SchoolAPI\\SchoolAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\SchoolAPI\\SchoolAPI\\appsettings.json",
+              "RelativeToolTip": "SchoolAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-15T08:01:00.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppContext.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\SchoolAPI\\SchoolAPI\\Data\\AppContext.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Data\\AppContext.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\SchoolAPI\\SchoolAPI\\Data\\AppContext.cs",
+              "RelativeToolTip": "SchoolAPI\\Data\\AppContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:58:20.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\SchoolAPI\\SchoolAPI\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\SchoolAPI\\SchoolAPI\\Models\\Grade.cs",
+              "RelativeToolTip": "SchoolAPI\\Models\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:46:42.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\SchoolAPI\\SchoolAPI\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\SchoolAPI\\SchoolAPI\\Models\\Teacher.cs",
+              "RelativeToolTip": "SchoolAPI\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:46:09.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\SchoolAPI\\SchoolAPI\\Models\\Lesson.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Models\\Lesson.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\SchoolAPI\\SchoolAPI\\Models\\Lesson.cs",
+              "RelativeToolTip": "SchoolAPI\\Models\\Lesson.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:34:11.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentLesson.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\SchoolAPI\\SchoolAPI\\Models\\StudentLesson.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Models\\StudentLesson.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\SchoolAPI\\SchoolAPI\\Models\\StudentLesson.cs",
+              "RelativeToolTip": "SchoolAPI\\Models\\StudentLesson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:34:10.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\SchoolAPI\\SchoolAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\SchoolAPI\\SchoolAPI\\Models\\Student.cs",
+              "RelativeToolTip": "SchoolAPI\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:26:27.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
