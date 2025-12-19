@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\YZM205\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52BA9DD7-EC7A-6581-0235-300DE500A281}|SchoolAPI\\SchoolAPI\\SchoolAPI.csproj|c:\\users\\furka\\source\\repos\\yzm205\\schoolapi\\schoolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BA9DD7-EC7A-6581-0235-300DE500A281}|SchoolAPI\\SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\schoolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BA9DD7-EC7A-6581-0235-300DE500A281}|SchoolAPI\\SchoolAPI\\SchoolAPI.csproj|c:\\users\\furka\\source\\repos\\yzm205\\schoolapi\\schoolapi\\data\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BA9DD7-EC7A-6581-0235-300DE500A281}|SchoolAPI\\SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\schoolapi\\data\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BA9DD7-EC7A-6581-0235-300DE500A281}|SchoolAPI\\SchoolAPI\\SchoolAPI.csproj|c:\\users\\furka\\source\\repos\\yzm205\\schoolapi\\schoolapi\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BA9DD7-EC7A-6581-0235-300DE500A281}|SchoolAPI\\SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\schoolapi\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppContext.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\SchoolAPI\\SchoolAPI\\Data\\AppContext.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\SchoolAPI\\Data\\AppContext.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\SchoolAPI\\SchoolAPI\\Data\\AppContext.cs",
+              "RelativeToolTip": "SchoolAPI\\SchoolAPI\\Data\\AppContext.cs",
+              "ViewState": "AgIAAAcAAAB4MzMzM9M4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:06:09.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\SchoolAPI\\SchoolAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\SchoolAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\SchoolAPI\\SchoolAPI\\Program.cs",
+              "RelativeToolTip": "SchoolAPI\\SchoolAPI\\Program.cs",
+              "ViewState": "AgIAAAIAAABAMzMzM7MiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:04:53.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\SchoolAPI\\SchoolAPI\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\SchoolAPI\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\SchoolAPI\\SchoolAPI\\Models\\Grade.cs",
+              "RelativeToolTip": "SchoolAPI\\SchoolAPI\\Models\\Grade.cs",
+              "ViewState": "AgIAABAAAACA+/////8DwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T07:33:07.498Z"
             }
           ]
         }

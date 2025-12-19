@@ -3,40 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\YZM205\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week11\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|solutionrelative:week11\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52BA9DD7-EC7A-6581-0235-300DE500A281}|SchoolAPI\\SchoolAPI\\SchoolAPI.csproj|c:\\users\\furka\\source\\repos\\yzm205\\schoolapi\\schoolapi\\data\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BA9DD7-EC7A-6581-0235-300DE500A281}|SchoolAPI\\SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\schoolapi\\data\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|solutionrelative:week11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52BA9DD7-EC7A-6581-0235-300DE500A281}|SchoolAPI\\SchoolAPI\\SchoolAPI.csproj|c:\\users\\furka\\source\\repos\\yzm205\\schoolapi\\schoolapi\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BA9DD7-EC7A-6581-0235-300DE500A281}|SchoolAPI\\SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\schoolapi\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week11\\controllers\\parkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|solutionrelative:week11\\controllers\\parkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52BA9DD7-EC7A-6581-0235-300DE500A281}|SchoolAPI\\SchoolAPI\\SchoolAPI.csproj|c:\\users\\furka\\source\\repos\\yzm205\\schoolapi\\schoolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BA9DD7-EC7A-6581-0235-300DE500A281}|SchoolAPI\\SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\schoolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week11\\interfaces\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|solutionrelative:week11\\interfaces\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52BA9DD7-EC7A-6581-0235-300DE500A281}|SchoolAPI\\SchoolAPI\\SchoolAPI.csproj|c:\\users\\furka\\source\\repos\\yzm205\\schoolapi\\schoolapi\\dtos\\gradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BA9DD7-EC7A-6581-0235-300DE500A281}|SchoolAPI\\SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\schoolapi\\dtos\\gradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week11\\data\\parkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|solutionrelative:week11\\data\\parkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week11\\interfaces\\iparkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|solutionrelative:week11\\interfaces\\iparkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week11\\models\\nationalpark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|solutionrelative:week11\\models\\nationalpark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week11\\models\\citypark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|solutionrelative:week11\\models\\citypark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|c:\\users\\furka\\source\\repos\\yzm205\\week11\\models\\park.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5637F54-DC7A-4535-8600-62872EF0D39F}|Week11\\Week11.csproj|solutionrelative:week11\\models\\park.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52BA9DD7-EC7A-6581-0235-300DE500A281}|SchoolAPI\\SchoolAPI\\SchoolAPI.csproj|c:\\users\\furka\\source\\repos\\yzm205\\schoolapi\\schoolapi\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BA9DD7-EC7A-6581-0235-300DE500A281}|SchoolAPI\\SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\schoolapi\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,120 +38,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IController.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Interfaces\\IController.cs",
-              "RelativeDocumentMoniker": "Week11\\Interfaces\\IController.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Interfaces\\IController.cs",
-              "RelativeToolTip": "Week11\\Interfaces\\IController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AppContext.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\SchoolAPI\\SchoolAPI\\Data\\AppContext.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\SchoolAPI\\Data\\AppContext.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\SchoolAPI\\SchoolAPI\\Data\\AppContext.cs",
+              "RelativeToolTip": "SchoolAPI\\SchoolAPI\\Data\\AppContext.cs",
+              "ViewState": "AgIAAAcAAAB4MzMzM9M4wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T12:03:51.988Z",
+              "WhenOpened": "2025-12-19T08:06:09.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ParkController.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Controllers\\ParkController.cs",
-              "RelativeDocumentMoniker": "Week11\\Controllers\\ParkController.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Controllers\\ParkController.cs",
-              "RelativeToolTip": "Week11\\Controllers\\ParkController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\SchoolAPI\\SchoolAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\SchoolAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\SchoolAPI\\SchoolAPI\\Program.cs*",
+              "RelativeToolTip": "SchoolAPI\\SchoolAPI\\Program.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAABIvQAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T12:03:29.693Z",
+              "WhenOpened": "2025-12-19T08:04:53.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Program.cs",
-              "RelativeDocumentMoniker": "Week11\\Program.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Program.cs",
-              "RelativeToolTip": "Week11\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Title": "GradeController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\SchoolAPI\\SchoolAPI\\Controllers\\GradeController.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\SchoolAPI\\Controllers\\GradeController.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\SchoolAPI\\SchoolAPI\\Controllers\\GradeController.cs",
+              "RelativeToolTip": "SchoolAPI\\SchoolAPI\\Controllers\\GradeController.cs",
+              "ViewState": "AgIAAA4AAACsmZmZmZkpwBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T11:59:54.791Z",
+              "WhenOpened": "2025-12-19T07:34:52.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ParkRepository.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Data\\ParkRepository.cs",
-              "RelativeDocumentMoniker": "Week11\\Data\\ParkRepository.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Data\\ParkRepository.cs",
-              "RelativeToolTip": "Week11\\Data\\ParkRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBoAAAAVAAAAAAAAAA==",
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\SchoolAPI\\SchoolAPI\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\SchoolAPI\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\SchoolAPI\\SchoolAPI\\Models\\Grade.cs",
+              "RelativeToolTip": "SchoolAPI\\SchoolAPI\\Models\\Grade.cs",
+              "ViewState": "AgIAABAAAACA+/////8DwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T12:02:20.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T07:33:07.498Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IParkRepository.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Interfaces\\IParkRepository.cs",
-              "RelativeDocumentMoniker": "Week11\\Interfaces\\IParkRepository.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Interfaces\\IParkRepository.cs",
-              "RelativeToolTip": "Week11\\Interfaces\\IParkRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "GradeDto.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\SchoolAPI\\SchoolAPI\\Dtos\\GradeDto.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\SchoolAPI\\Dtos\\GradeDto.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\SchoolAPI\\SchoolAPI\\Dtos\\GradeDto.cs",
+              "RelativeToolTip": "SchoolAPI\\SchoolAPI\\Dtos\\GradeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T11:41:03.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Week11\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Week11\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T11:33:09.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NationalPark.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Models\\NationalPark.cs",
-              "RelativeDocumentMoniker": "Week11\\Models\\NationalPark.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Models\\NationalPark.cs",
-              "RelativeToolTip": "Week11\\Models\\NationalPark.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wA8AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T11:59:14.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CityPark.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Models\\CityPark.cs",
-              "RelativeDocumentMoniker": "Week11\\Models\\CityPark.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Models\\CityPark.cs",
-              "RelativeToolTip": "Week11\\Models\\CityPark.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T11:31:31.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Park.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Models\\Park.cs",
-              "RelativeDocumentMoniker": "Week11\\Models\\Park.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\YZM205\\Week11\\Models\\Park.cs",
-              "RelativeToolTip": "Week11\\Models\\Park.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAuwBwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T11:19:48.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T07:33:04.031Z"
             }
           ]
         }

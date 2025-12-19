@@ -7,15 +7,15 @@ namespace SchoolAPI.Models
         public int Id { get; set; }
         public decimal Midterm { get; set; }
         public decimal Final { get; set; }
-        [JsonIgnore]
+
         public string LetterGrade { get; set; }
 
         public int StudentId { get; set; }
         public int LessonId { get; set; }
 
-        [JsonIgnore]
+
         public Student Student { get; set; }
-        [JsonIgnore]
+
         public Lesson Lesson { get; set; }
 
         public void CalculateGrade()
