@@ -8,9 +8,7 @@ namespace SchoolAPI.Models
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        [JsonIgnore]
-        public List<Lesson> Lessons { get; set; }
-        [JsonIgnore]
+        public ICollection<Lesson> Lessons { get; set; }
         public string FullName => $"{FirstName} {LastName}";
     }
 }

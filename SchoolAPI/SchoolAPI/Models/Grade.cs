@@ -21,9 +21,9 @@ namespace SchoolAPI.Models
         public void CalculateGrade()
         {
             var WeightedSum = (Midterm * 40) / 100 + (Final * 60) / 100;
-            if (WeightedSum > 85) LetterGrade = "AA";
-            else if (WeightedSum > 75) LetterGrade = "BB";
-            else if (WeightedSum > 60) LetterGrade = "CC";
+            if (WeightedSum >= 85) LetterGrade = "AA";
+            else if (WeightedSum >= 75) LetterGrade = "BB";
+            else if (WeightedSum >= 60) LetterGrade = "CC";
             else LetterGrade = "FF";
         }
     }
