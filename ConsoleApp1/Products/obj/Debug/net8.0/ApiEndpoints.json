@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "Products.Controllers.ProductController",
+    "Method": "GetMinMaxValue",
+    "RelativePath": "api/Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "minValue",
+        "Type": "System.Single",
+        "IsRequired": false
+      },
+      {
+        "Name": "maxValue",
+        "Type": "System.Single",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Products.Models.Product, Products, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Products.Controllers.ProductController",
+    "Method": "CreateProduct",
+    "RelativePath": "api/Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "Products.Models.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

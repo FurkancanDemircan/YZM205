@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93542B21-7DAC-4AC7-BE55-B09804219D70}|Products\\Products.csproj|c:\\users\\furka\\source\\repos\\consoleapp1\\products\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93542B21-7DAC-4AC7-BE55-B09804219D70}|Products\\Products.csproj|solutionrelative:products\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93542B21-7DAC-4AC7-BE55-B09804219D70}|Products\\Products.csproj|c:\\users\\furka\\source\\repos\\consoleapp1\\products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93542B21-7DAC-4AC7-BE55-B09804219D70}|Products\\Products.csproj|solutionrelative:products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93542B21-7DAC-4AC7-BE55-B09804219D70}|Products\\Products.csproj|c:\\users\\furka\\source\\repos\\consoleapp1\\products\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93542B21-7DAC-4AC7-BE55-B09804219D70}|Products\\Products.csproj|solutionrelative:products\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93542B21-7DAC-4AC7-BE55-B09804219D70}|Products\\Products.csproj|c:\\users\\furka\\source\\repos\\consoleapp1\\products\\products.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93542B21-7DAC-4AC7-BE55-B09804219D70}|Products\\Products.csproj|solutionrelative:products\\products.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93542B21-7DAC-4AC7-BE55-B09804219D70}|Products\\Products.csproj|c:\\users\\furka\\source\\repos\\consoleapp1\\products\\data\\extensions\\contextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93542B21-7DAC-4AC7-BE55-B09804219D70}|Products\\Products.csproj|solutionrelative:products\\data\\extensions\\contextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93542B21-7DAC-4AC7-BE55-B09804219D70}|Products\\Products.csproj|c:\\users\\furka\\source\\repos\\consoleapp1\\products\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93542B21-7DAC-4AC7-BE55-B09804219D70}|Products\\Products.csproj|solutionrelative:products\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\ConsoleApp1\\Products\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Products\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\ConsoleApp1\\Products\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "Products\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T12:19:59.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\ConsoleApp1\\Products\\Products.csproj",
+              "RelativeDocumentMoniker": "Products\\Products.csproj",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\ConsoleApp1\\Products\\Products.csproj",
+              "RelativeToolTip": "Products\\Products.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-22T12:19:32.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContextExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\ConsoleApp1\\Products\\Data\\Extensions\\ContextExtensions.cs",
+              "RelativeDocumentMoniker": "Products\\Data\\Extensions\\ContextExtensions.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\ConsoleApp1\\Products\\Data\\Extensions\\ContextExtensions.cs",
+              "RelativeToolTip": "Products\\Data\\Extensions\\ContextExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T12:09:15.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\ConsoleApp1\\Products\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Products\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\ConsoleApp1\\Products\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Products\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:59:59.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\ConsoleApp1\\Products\\Program.cs",
+              "RelativeDocumentMoniker": "Products\\Program.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\ConsoleApp1\\Products\\Program.cs",
+              "RelativeToolTip": "Products\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:31:37.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\ConsoleApp1\\Products\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Products\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\ConsoleApp1\\Products\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Products\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:27:44.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
